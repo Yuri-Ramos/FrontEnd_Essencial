@@ -1,6 +1,6 @@
 # FrontEnd-Essencial
 Exercícios da disciplina FrontEnd Essencial do Serratec
-## FrontEnd Essencial
+## FrontEnd Essencial Serratec
 
 Disciplina FronEnd Essencial serratec
 <img src="https://nofluffjobs.com/blog/wp-content/uploads/2018/04/frontend-developer.png" alt="logofront">
@@ -13,8 +13,6 @@ Disciplina FronEnd Essencial serratec
 
 - [Sobre](#frontend-essencial)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Construído com](#%EF%B8%8F-construído-com)
-- [Autores](#%EF%B8%8F-autores)
 
 --- 
 
@@ -29,20 +27,20 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 ---  
 
 ## 🛠️ Construído com
-
+*
 * [Visual Studio Code](https://code.visualstudio.com/) - ferramenta de desenvolvimento
+
 
 --- 
 
 ## ✒️ Autores
 
-* **João Victor de Mello Pereira** - *Desenvolvimento do código* - [KifelG](https://github.com/kifel)
+* ***Yuri Ramos de Oliveira*** - *Desenvolvimento do código* - [KifelG](https://github.com/Yuri-Ramos)
 
 --- 
 
-## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢
-* Obrigado por ver esse projeto ❤️
+
+
 
 --- # FrontEnd_Essencial
