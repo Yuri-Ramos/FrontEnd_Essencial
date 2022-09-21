@@ -1,0 +1,21 @@
+h2{
+    color:blue;
+}
+span{
+    color:green
+}
+/* Classes e ids */
+.nome-classe {
+    color:#527358;
+}
+/* id */
+#nome-id {
+    color:rgb(82, 186, 99,0.78);
+}
+/* Cores- nome da cor, hexadeximal, rgb */
+body {
+ /* background-color: hsla(131, 37%, 72%, 0.762); */
+ background-image: url('../img/vida-de-gato.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+}
