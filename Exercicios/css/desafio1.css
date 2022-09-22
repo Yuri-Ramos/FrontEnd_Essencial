@@ -1,0 +1,10 @@
+.black{
+    color: black;
+    
+    height: 400px;
+    width: 400px;
+    padding: 16px;
+}
+body{
+    background-color: rgb(237, 222, 222);
+}

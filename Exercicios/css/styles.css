@@ -14,8 +14,21 @@ span{
 }
 /* Cores- nome da cor, hexadeximal, rgb */
 body {
- /* background-color: hsla(131, 37%, 72%, 0.762); */
- background-image: url('../img/vida-de-gato.jpg');
+ background-color: hsla(131, 37%, 72%, 0.762);
+ /* background-image: url('../img/vida-de-gato.jpg');
  background-repeat: no-repeat;
- background-size: cover;
+ background-size: cover; */
+}
+p{
+    color:black;
+    font: size 36px;
+}
+.font-sanserif{
+    font-family: 'Time New Roman';
+}
+.font-serif{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font-monospace{
+    font-family: 'courier New', Times, serif;
 }
