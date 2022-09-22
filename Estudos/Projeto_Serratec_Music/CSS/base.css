@@ -1,0 +1,12 @@
+:root{
+    --cor-primaria:hsla(240, 41%, 60%, 0.878);
+    --cor-secundaria: #140872;
+    --cor-terciaria: #0A5388;
+    --cor-background: #fff;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
