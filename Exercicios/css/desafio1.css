@@ -1,10 +1,43 @@
-.black{
-    color: black;
-    
-    height: 400px;
-    width: 400px;
-    padding: 16px;
+
+body {
+    width: 100vw;
+    height: 90vh;
+    margin: 0;
 }
-body{
-    background-color: rgb(237, 222, 222);
+.container {
+    position: relative;
+    background-color: #000;
+    height: 60%;
+    width: 32%;
+    margin: 8px auto;
 }
+
+.circulo {
+    background-color: #fff;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+    position: relative;
+    top: 83px;
+}
+
+.divisao {
+    background-color: #fff;
+    width: 75%;
+    height: 20px;
+    margin: auto;
+}
+
+.botao {
+    width: 90%;
+    height: 50px;
+    background-color: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 16px;
+    margin: auto;
+    border-radius: 12px;
+}
+

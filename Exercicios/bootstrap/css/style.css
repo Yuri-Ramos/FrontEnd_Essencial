@@ -1,0 +1,48 @@
+.minha-classe{
+    background-color: rgb(157, 163, 192);
+}
+.breakpoints{
+    color: brown;
+
+}
+@media(min-width: 576px){
+    .breakpoints{
+        color: purple;
+    }
+}
+@media(min-width: 768px){
+    .breakpoints{
+        color: rgb(120, 239, 47);
+    }
+}
+@media(min-width: 992px){
+    .breakpoints{
+        color: rgb(184, 5, 5);
+    }
+}
+@media(min-width: 1200px){
+    .breakpoints{
+        color: rgb(197, 189, 181);
+    }
+}
+@media(min-width: 1400px){
+    .breakpoints{
+        color: rgb(96, 100, 89);
+    }
+}
+.grid-container{
+    border: 2px solid black;
+    padding: 8px;
+    
+
+}
+.grid-row{
+    border: 2px solid red;
+    height: 100px;
+    margin:0;
+    padding: 8px;
+
+}
+.col, .col-12,.col-8,.col-5 ,.col-6, .col-4, .col-3{
+     border: 2px solid purple;
+}
