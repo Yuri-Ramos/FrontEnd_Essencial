@@ -30,6 +30,16 @@
         color: rgb(96, 100, 89);
     }
 }
+h2{
+    text-align: center;
+}
+.alinhamento{
+    margin-bottom: 300px;
+}
+.alinhamento .row{
+    height: 300px;
+    border: 2px solid purple;
+}
 .grid-container{
     border: 2px solid black;
     padding: 8px;
